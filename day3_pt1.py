@@ -1,7 +1,3 @@
-# TODO: update to work for both the puzzle and the test case.
-# test case works when self.height & or self.length are -1
-# puzzle works when they are set to length.
-
 class TextGridConverter:
     def __init__(self, file_path):
         # set up the text file as a grid
