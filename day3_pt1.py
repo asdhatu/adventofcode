@@ -100,7 +100,6 @@ class TextGridConverter:
                 return False
             return True
         else:
-            print('woring!')
             print("Coordinates are outside the grid boundaries.")
             return False
 
